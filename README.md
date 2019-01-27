@@ -49,7 +49,7 @@ server.port = 8088 # default server port
 
 spring.jpa.database = MYSQL
 spring.jpa.show-sql = true
-spring.jpa.hibernate.ddl-auto = update
+spring.jpa.hibernate.ddl-auto = update # use 'create' at first run
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDialect
 
 spring.datasource.username = [your mysql username]
