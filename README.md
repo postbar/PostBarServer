@@ -57,7 +57,7 @@ spring.datasource.password = [your mysql password]
 
 spring.datasource.url = jdbc:mysql://localhost:3306/[your database name]?useUnicode=true&characterEncoding=utf8
 spring.datasource.type = com.zaxxer.hikari.HikariDataSource
-spring.datasource.hikari.connection-init-sql = SET NAMES utf8mb4
+spring.datasource.hikari.connection-init-sql = SET NAMES utf8mb4 # utf8mb4 support emoji
 
 logging.level.org.springframework.web=ERROR
 
