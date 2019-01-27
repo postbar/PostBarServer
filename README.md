@@ -30,7 +30,7 @@ Generated jar package: `PostBarServer/target/pbserver-0.0.1-SNAPSHOT.jar`
 
 `MySQL 5.7` is required for PostBarServer
 
-Build your configure with an application.properties file
+Build your own configure with an application.properties file
 
 ``` bash
 # in  application.properties
