@@ -60,7 +60,7 @@ logging.level.org.springframework.web=ERROR
 ### Run
 
 ``` bash
-java jar pbserver-0.0.1-SNAPSHOT.jar
+java jar -Dspring.config.location=./application.properties pbserver-0.0.1-SNAPSHOT.jar
 ```
 
 
