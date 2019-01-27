@@ -1,4 +1,6 @@
 # PostBarServer
+![license](https://img.shields.io/github/license/postbar/PostBarServer.svg)
+
 （fake）百度贴吧，SpringBoot BackEnd
 
 ## Requirements
@@ -15,4 +17,4 @@
 
 ## License
 
-MIT
+GPL-3.0
