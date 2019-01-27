@@ -12,6 +12,30 @@
 ## Releases
 + 0.0.1
 
+## Deploy
+
+### Deploy From Source
++ `IDEA`
++ `lombok` IDEA Plugin
+
+``` bash
+git clone https://github.com/postbar/PostBarServer.git
+cd PostBarServer
+# In IDEA
+maven install
+```
+Generated jar package: `PostBarServer/target/pbserver-0.0.1-SNAPSHOT.jar`
+
+### Or Download ![`Release`](https://github.com/postbar/PostBarServer/releases)
+
+### Configure DataSource
+
+### Run
+
+``` bash
+java jar pbserver-0.0.1-SNAPSHOT.jar
+```
+
 
 
 
