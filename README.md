@@ -3,6 +3,14 @@
 
 （fake）百度贴吧，SpringBoot BackEnd
 
+## Main Dependencies
++ `spring-boot-starter`
++ `spring-boot-starter-data-jpa`
++ `mysql-connector-java`
++ `spring-boot-starter-security`
++ `lombok`
++ `spring-boot-maven-plugin`
+
 ## Requirements
 + `JDK 1.8`
 + `MySQL 5.7`
