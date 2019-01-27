@@ -8,7 +8,7 @@
 + `MySQL 5.7`
 
 ## Releases
-+ 0.0.1
++ [0.0.1](https://github.com/postbar/PostBarServer/releases/tag/0.0.1-SNAPSHOT)
 
 ## Deploy
 
