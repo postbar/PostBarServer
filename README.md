@@ -3,6 +3,8 @@
 
 （fake）百度贴吧，SpringBoot BackEnd
 
+[配套安卓端](https://github.com/postbar/PostBarRN)
+
 ## Main Dependencies
 + `spring-boot-starter`
 + `spring-boot-starter-data-jpa`
